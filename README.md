@@ -1,6 +1,6 @@
 Blogging-Site 
 How to use ? :worried:
-1. Create a account.
+1. Create your account.
 2. Enter in dashboard area
 3. You can write blog here.
 4. Save it.
